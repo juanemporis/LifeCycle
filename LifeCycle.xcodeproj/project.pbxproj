@@ -13,6 +13,7 @@
 		DB53CDD328373A39002D2EDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB53CDD128373A39002D2EDC /* Main.storyboard */; };
 		DB53CDD528373A3A002D2EDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB53CDD428373A3A002D2EDC /* Assets.xcassets */; };
 		DB53CDD828373A3A002D2EDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB53CDD628373A3A002D2EDC /* LaunchScreen.storyboard */; };
+		DB53CDE028373F7C002D2EDC /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB53CDDF28373F7C002D2EDC /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB53CDD428373A3A002D2EDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB53CDD728373A3A002D2EDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB53CDD928373A3A002D2EDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB53CDDF28373F7C002D2EDC /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB53CDCB28373A39002D2EDC /* AppDelegate.swift */,
 				DB53CDCD28373A39002D2EDC /* SceneDelegate.swift */,
 				DB53CDCF28373A39002D2EDC /* ViewController.swift */,
+				DB53CDDF28373F7C002D2EDC /* ViewController2.swift */,
 				DB53CDD128373A39002D2EDC /* Main.storyboard */,
 				DB53CDD428373A3A002D2EDC /* Assets.xcassets */,
 				DB53CDD628373A3A002D2EDC /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB53CDD028373A39002D2EDC /* ViewController.swift in Sources */,
+				DB53CDE028373F7C002D2EDC /* ViewController2.swift in Sources */,
 				DB53CDCC28373A39002D2EDC /* AppDelegate.swift in Sources */,
 				DB53CDCE28373A39002D2EDC /* SceneDelegate.swift in Sources */,
 			);
